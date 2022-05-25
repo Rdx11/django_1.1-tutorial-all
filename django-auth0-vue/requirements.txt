@@ -13,7 +13,7 @@ idna==2.6
 pkg-resources==0.0.0
 pycparser==2.18
 pycrypto==2.6.1
-PyJWT==1.5.3
+PyJWT==2.4.0
 python-jose==1.4.0
 pytz==2017.3
 six==1.11.0
